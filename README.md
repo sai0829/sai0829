@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on AI & Data Science
-- 🌱 I’m currently learning Data Analytics domain
-<!--
+- I’m currently studying in Artificial Intelligence and Data Science field
+- 🔭 I’m currently working on Data Analytics domain
+- <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
