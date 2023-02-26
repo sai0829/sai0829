@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- I’m currently studying in Artificial Intelligence and Data Science field
-- 🔭 I’m currently working on Data Analytics domain
+- I’m currently pursuing B.Tech. in Artificial Intelligence and Data Science 
+- 🔭 I’m currently exploring on Big Data domain 
+- also learning about Data Analytics field
+- - 🤔 I’m looking for help in MLaaS 
+
+- - 📫 How to reach me: 
 - <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
