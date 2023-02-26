@@ -3,10 +3,9 @@
 - I’m currently pursuing B.Tech. in Artificial Intelligence and Data Science 
 - 🔭 I’m currently exploring on Big Data domain 
 - also learning about Data Analytics field
-- - 🤔 I’m looking for help in MLaaS 
-
-- - 📫 How to reach me: 
-- <!--
+- 🤔 I’m looking for help in MLaaS 
+- 📫 How to reach me: https://t.me/Sai_0829
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
